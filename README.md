@@ -1,0 +1,2 @@
+# QuickWidget
+简化Android Imageview，Textview，RelativeLayout等组件的Statedrawable设置
